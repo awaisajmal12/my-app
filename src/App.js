@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       {/*<A></A>*/}
-      <A my=' Ajmal' ki=' All'/>
+      <A my=' You' ki=' king'/>
       <hr/>
       <A my=' World' ki=' Hitman'/>
     </div>
