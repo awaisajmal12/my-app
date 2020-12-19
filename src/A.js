@@ -12,7 +12,7 @@ function A(props) {
       <h1>HELLO AWAIS {props.my}</h1>
        <h1>KING AWAIS{props.ki}</h1>
        <B oj='are serving'/>
-       <hr/>
+       
         </div>
     );
 }
