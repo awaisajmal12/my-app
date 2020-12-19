@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import react from 'react';
 import './App.css';
 import A from './A';
 
