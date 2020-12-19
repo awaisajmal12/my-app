@@ -1,4 +1,4 @@
-import react from 'react';
+
 import logo from './logo.svg'; // Tell webpack this JS file uses this image
 
 console.log(logo); // /logo.84287d09.png
